@@ -13,23 +13,26 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Utilitiy VIs" Type="Folder">
+			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
+			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
+			<Item Name="Draw Rectangle temp.vi" Type="VI" URL="../Draw Rectangle temp.vi"/>
+			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
+			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
+			<Item Name="Search 2D Array tmp.vi" Type="VI" URL="../Search 2D Array tmp.vi"/>
+			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
+			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
+		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
-		<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 		<Item Name="Collect All Positions.vi" Type="VI" URL="../Position Class/Collect All Positions.vi"/>
-		<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
-		<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
-		<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
-		<Item Name="Search 2D Array tmp.vi" Type="VI" URL="../Search 2D Array tmp.vi"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
-		<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
-		<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -53,6 +56,7 @@
 				<Item Name="Longest Line Length in Pixels.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Longest Line Length in Pixels.vi"/>
 				<Item Name="LVBoundsTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVBoundsTypeDef.ctl"/>
 				<Item Name="LVRectTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVRectTypeDef.ctl"/>
+				<Item Name="NI_AALBase.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALBase.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
