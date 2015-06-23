@@ -16,7 +16,7 @@
 		<Item Name="Utilitiy VIs" Type="Folder">
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
-			<Item Name="Draw Rectangle temp.vi" Type="VI" URL="../Draw Rectangle temp.vi"/>
+			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
 			<Item Name="Search 2D Array tmp.vi" Type="VI" URL="../Search 2D Array tmp.vi"/>
@@ -27,6 +27,7 @@
 		<Item Name="Collect All Positions.vi" Type="VI" URL="../Position Class/Collect All Positions.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
+		<Item Name="Draw Elements On Field.vi" Type="VI" URL="../Field Class/Draw Elements On Field.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
