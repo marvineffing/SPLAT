@@ -19,7 +19,7 @@
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
-			<Item Name="Search 2D Array tmp.vi" Type="VI" URL="../Search 2D Array tmp.vi"/>
+			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 		</Item>
