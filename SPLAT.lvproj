@@ -13,6 +13,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Global Variables" Type="Folder">
+			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../Global FieldLengthX.vi"/>
+			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../Global FieldWidthY.vi"/>
+		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
