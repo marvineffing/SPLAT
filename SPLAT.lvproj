@@ -24,6 +24,7 @@
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
+			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
