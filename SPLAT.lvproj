@@ -30,7 +30,6 @@
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 		</Item>
-		<Item Name="Anchor Object Array to Cluster Array.vi" Type="VI" URL="../Anchor/Anchor Object Array to Cluster Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Create Live Random Data Tag Array.vi" Type="VI" URL="../Create Live Random Data Tag Array.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
