@@ -31,6 +31,7 @@
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
+			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
 		</Item>
 		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
@@ -42,7 +43,6 @@
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
-		<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
 		<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
