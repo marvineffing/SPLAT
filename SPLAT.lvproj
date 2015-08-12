@@ -47,6 +47,7 @@
 		<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
 		<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
+		<Item Name="Remove Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Remove Tag from TagsArray by ID.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
@@ -87,7 +88,10 @@
 				<Item Name="Write To Spreadsheet File (I64).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (I64).vi"/>
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
+				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
+				<Item Name="Error Cluster From Error Code.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Error Cluster From Error Code.vi"/>
 			</Item>
+			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
