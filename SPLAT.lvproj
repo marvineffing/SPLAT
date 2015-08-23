@@ -51,6 +51,7 @@
 		<Item Name="Remove Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Remove Tag from TagsArray by ID.vi"/>
 		<Item Name="Swarm Method.vi" Type="VI" URL="../Swarm Method.vi"/>
 		<Item Name="Determine Operating Point.vi" Type="VI" URL="../Tag/Determine Operating Point.vi"/>
+		<Item Name="Global_seed.vi" Type="VI" URL="../Global_seed.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
