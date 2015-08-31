@@ -19,6 +19,7 @@
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../Global FieldWidthY.vi"/>
 			<Item Name="Global X Border.vi" Type="VI" URL="../Field Class/Global X Border.vi"/>
 			<Item Name="Global Y Border.vi" Type="VI" URL="../Field Class/Global Y Border.vi"/>
+			<Item Name="Global_seed.vi" Type="VI" URL="../Global_seed.vi"/>
 		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
@@ -51,7 +52,6 @@
 		<Item Name="Remove Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Remove Tag from TagsArray by ID.vi"/>
 		<Item Name="Swarm Method.vi" Type="VI" URL="../Swarm Method.vi"/>
 		<Item Name="Determine Operating Point.vi" Type="VI" URL="../Tag/Determine Operating Point.vi"/>
-		<Item Name="Global_seed.vi" Type="VI" URL="../Global_seed.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
