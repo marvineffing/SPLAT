@@ -41,7 +41,6 @@
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
 		<Item Name="Estimate All Positions New.vi" Type="VI" URL="../Position Class/Estimate All Positions New.vi"/>
-		<Item Name="Estimate All Positions.vi" Type="VI" URL="../Position Class/Estimate All Positions.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
@@ -97,7 +96,8 @@
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 			</Item>
-			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="Estimate All Positions.vi" Type="VI" URL="../Position Class/Estimate All Positions.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
