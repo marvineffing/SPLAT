@@ -34,6 +34,7 @@
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
 			<Item Name="Random (0 - 1) with Seed.vi" Type="VI" URL="../Random (0 - 1) with Seed.vi"/>
+			<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		</Item>
 		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
@@ -42,7 +43,6 @@
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
 		<Item Name="Estimate All Positions New.vi" Type="VI" URL="../Position Class/Estimate All Positions New.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
-		<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
