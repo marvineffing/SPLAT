@@ -22,19 +22,21 @@
 			<Item Name="Global_seed.vi" Type="VI" URL="../Global_seed.vi"/>
 		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
+			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
+			<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
+			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
+			<Item Name="Random (0 - 1) with Seed.vi" Type="VI" URL="../Random (0 - 1) with Seed.vi"/>
 			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../Tag/Read XY from Tag To ClusterArray.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
+			<Item Name="TagArray to InputArray.vi" Type="VI" URL="../Tag/TagArray to InputArray.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
-			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
-			<Item Name="Random (0 - 1) with Seed.vi" Type="VI" URL="../Random (0 - 1) with Seed.vi"/>
-			<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 		</Item>
 		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
@@ -96,8 +98,8 @@
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="NI_AALPro.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/NI_AALPro.lvlib"/>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 			<Item Name="Estimate All Positions.vi" Type="VI" URL="../Position Class/Estimate All Positions.vi"/>
+			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
