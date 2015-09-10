@@ -43,6 +43,7 @@
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
 		<Item Name="Determine Operating Point.vi" Type="VI" URL="../Tag/Determine Operating Point.vi"/>
+		<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
 		<Item Name="Estimate All Positions New.vi" Type="VI" URL="../Position Class/Estimate All Positions New.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
@@ -82,6 +83,7 @@
 				<Item Name="NI_Gmath.lvlib" Type="Library" URL="/&lt;vilib&gt;/gmath/NI_Gmath.lvlib"/>
 				<Item Name="NI_Matrix.lvlib" Type="Library" URL="/&lt;vilib&gt;/Analysis/Matrix/NI_Matrix.lvlib"/>
 				<Item Name="Not Found Dialog.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Not Found Dialog.vi"/>
+				<Item Name="RGB to Color.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/colorconv.llb/RGB to Color.vi"/>
 				<Item Name="Search and Replace Pattern.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Search and Replace Pattern.vi"/>
 				<Item Name="Set Bold Text.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set Bold Text.vi"/>
 				<Item Name="Set String Value.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/Set String Value.vi"/>
