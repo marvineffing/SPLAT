@@ -42,9 +42,10 @@
 		<Item Name="Create Live Random Data Tag Array.vi" Type="VI" URL="../Create Live Random Data Tag Array.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
+		<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../Tag/Determine Distance to Tags from all Tags.vi"/>
 		<Item Name="Determine Operating Point.vi" Type="VI" URL="../Tag/Determine Operating Point.vi"/>
 		<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
-		<Item Name="Estimate All Positions New.vi" Type="VI" URL="../Position Class/Estimate All Positions New.vi"/>
+		<Item Name="Estimate All Positions.vi" Type="VI" URL="../Position Class/Estimate All Positions.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
@@ -99,7 +100,6 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
-			<Item Name="Estimate All Positions.vi" Type="VI" URL="../Position Class/Estimate All Positions.vi"/>
 			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
