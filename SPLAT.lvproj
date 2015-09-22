@@ -52,6 +52,7 @@
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
 		<Item Name="Swarm Method.vi" Type="VI" URL="../Swarm Method.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
+		<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
