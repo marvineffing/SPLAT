@@ -40,6 +40,8 @@
 		</Item>
 		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
+		<Item Name="Control 1.ctl" Type="VI" URL="../Custon Controls/Control 1.ctl"/>
+		<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 		<Item Name="Create Live Random Data Tag Array.vi" Type="VI" URL="../Create Live Random Data Tag Array.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
