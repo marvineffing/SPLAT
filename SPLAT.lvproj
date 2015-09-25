@@ -24,6 +24,7 @@
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
+			<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 			<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
@@ -41,7 +42,6 @@
 		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Control 1.ctl" Type="VI" URL="../Custon Controls/Control 1.ctl"/>
-		<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 		<Item Name="Create Live Random Data Tag Array.vi" Type="VI" URL="../Create Live Random Data Tag Array.vi"/>
 		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
 		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
@@ -55,6 +55,7 @@
 		<Item Name="Swarm Method.vi" Type="VI" URL="../Swarm Method.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
 		<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
+		<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
