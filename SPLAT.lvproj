@@ -13,6 +13,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Custom Controls" Type="Folder">
+			<Item Name="Control 1.ctl" Type="VI" URL="../Custon Controls/Control 1.ctl"/>
+		</Item>
 		<Item Name="Global Variables" Type="Folder">
 			<Item Name="Global FieldLengthX.vi" Type="VI" URL="../Global FieldLengthX.vi"/>
 			<Item Name="Global FieldWidthY.vi" Type="VI" URL="../Global FieldWidthY.vi"/>
@@ -20,42 +23,44 @@
 			<Item Name="Global Y Border.vi" Type="VI" URL="../Field Class/Global Y Border.vi"/>
 			<Item Name="Global_seed.vi" Type="VI" URL="../Global_seed.vi"/>
 		</Item>
+		<Item Name="Random Generator" Type="Folder">
+			<Item Name="Create Live Random Data (Star).vi" Type="VI" URL="../Random Generator/Create Live Random Data (Star).vi"/>
+			<Item Name="Create Live Random Data (Swarm).vi" Type="VI" URL="../Create Live Random Data (Swarm).vi"/>
+			<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
+		</Item>
+		<Item Name="Swarm VIs" Type="Folder">
+			<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../Tag/Determine Distance to Tags from all Tags.vi"/>
+			<Item Name="Estimate All Positions - Swarm Method.vi" Type="VI" URL="../Estimate All Positions - Swarm Method.vi"/>
+			<Item Name="Randomize Tags.vi" Type="VI" URL="../Random Generator/Randomize Tags.vi"/>
+			<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
+		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">0</Property>
+			<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
 			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 			<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
-			<Item Name="Get Anchor Batch.vi" Type="VI" URL="../Get Anchor Batch.vi"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../Get Distance From AnchorDistanceArray By TagID.vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
 			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
+			<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
 			<Item Name="Random (0 - 1) with Seed.vi" Type="VI" URL="../Random (0 - 1) with Seed.vi"/>
 			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../Tag/Read XY from Tag To ClusterArray.vi"/>
+			<Item Name="Remove Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Remove Tag from TagsArray by ID.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
 			<Item Name="TagArray to InputArray.vi" Type="VI" URL="../Tag/TagArray to InputArray.vi"/>
+			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 		</Item>
-		<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
-		<Item Name="Control 1.ctl" Type="VI" URL="../Custon Controls/Control 1.ctl"/>
-		<Item Name="Create Live Random Data Tag Array.vi" Type="VI" URL="../Create Live Random Data Tag Array.vi"/>
-		<Item Name="Create Live Random Data.vi" Type="VI" URL="../Create Live Random Data.vi"/>
-		<Item Name="Create Random Data.vi" Type="VI" URL="../Create Random Data.vi"/>
-		<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../Tag/Determine Distance to Tags from all Tags.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
-		<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
-		<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
-		<Item Name="Remove Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Remove Tag from TagsArray by ID.vi"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
-		<Item Name="Swarm Method.vi" Type="VI" URL="../Swarm Method.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
-		<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
-		<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
