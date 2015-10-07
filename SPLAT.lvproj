@@ -35,10 +35,10 @@
 			<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
 		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">0</Property>
+			<Property Name="NI.SortType" Type="Int">3</Property>
+			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
-			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 			<Item Name="Delete Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Delete Tag from TagsArray by ID.vi"/>
 			<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
@@ -57,6 +57,7 @@
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
+		<Item Name="Determine Input Matrix.vi" Type="VI" URL="../Determine Input Matrix.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
