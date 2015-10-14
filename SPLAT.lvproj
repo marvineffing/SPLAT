@@ -29,7 +29,9 @@
 			<Item Name="Random XY Generator.vi" Type="VI" URL="../Random XY Generator.vi"/>
 		</Item>
 		<Item Name="Swarm VIs" Type="Folder">
+			<Item Name="Build SwarmOutputArray.vi" Type="VI" URL="../Build SwarmOutputArray.vi"/>
 			<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../Tag/Determine Distance to Tags from all Tags.vi"/>
+			<Item Name="Estimate All Positions - Swarm Method (copy).vi" Type="VI" URL="../Estimate All Positions - Swarm Method (copy).vi"/>
 			<Item Name="Estimate All Positions - Swarm Method.vi" Type="VI" URL="../Estimate All Positions - Swarm Method.vi"/>
 			<Item Name="Randomize Tags.vi" Type="VI" URL="../Random Generator/Randomize Tags.vi"/>
 			<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
@@ -55,14 +57,13 @@
 			<Item Name="TagArray to InputArray.vi" Type="VI" URL="../Tag/TagArray to InputArray.vi"/>
 			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
+			<Item Name="Draw All Distances.vi" Type="VI" URL="../Draw All Distances.vi"/>
 		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
-		<Item Name="Determine Input Matrix.vi" Type="VI" URL="../Determine Input Matrix.vi"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
-		<Item Name="Untitled 1.vi" Type="VI" URL="../Untitled 1.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
