@@ -34,7 +34,7 @@
 			<Item Name="Estimate All Positions - Swarm Method (copy).vi" Type="VI" URL="../Estimate All Positions - Swarm Method (copy).vi"/>
 			<Item Name="Estimate All Positions - Swarm Method.vi" Type="VI" URL="../Estimate All Positions - Swarm Method.vi"/>
 			<Item Name="Randomize Tags.vi" Type="VI" URL="../Random Generator/Randomize Tags.vi"/>
-			<Item Name="to SwarmInputArray.vi" Type="VI" URL="../to SwarmInputArray.vi"/>
+			<Item Name="TagArray to SwarmInputArray.vi" Type="VI" URL="../TagArray to SwarmInputArray.vi"/>
 		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">3</Property>
@@ -54,7 +54,7 @@
 			<Item Name="Read XY from Tag To ClusterArray.vi" Type="VI" URL="../Tag/Read XY from Tag To ClusterArray.vi"/>
 			<Item Name="Search 2D Array.vi" Type="VI" URL="../Search 2D Array.vi"/>
 			<Item Name="SubtractTime.vi" Type="VI" URL="../SubtractTime.vi"/>
-			<Item Name="TagArray to InputArray.vi" Type="VI" URL="../Tag/TagArray to InputArray.vi"/>
+			<Item Name="TagArray to StarInputArray.vi" Type="VI" URL="../Tag/TagArray to StarInputArray.vi"/>
 			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 			<Item Name="Draw All Distances.vi" Type="VI" URL="../Draw All Distances.vi"/>
@@ -62,7 +62,6 @@
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
-		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
