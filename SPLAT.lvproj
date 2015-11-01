@@ -58,6 +58,8 @@
 			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
 			<Item Name="Draw All Distances.vi" Type="VI" URL="../Draw All Distances.vi"/>
+			<Item Name="Input to Waveform Chart.vi" Type="VI" URL="../Input to Waveform Chart.vi"/>
+			<Item Name="Insert Element In 2D Array (DBL).vi" Type="VI" URL="../Insert Element In 2D Array (DBL).vi"/>
 		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
