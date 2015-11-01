@@ -31,7 +31,6 @@
 		<Item Name="Swarm VIs" Type="Folder">
 			<Item Name="Build SwarmOutputArray.vi" Type="VI" URL="../Build SwarmOutputArray.vi"/>
 			<Item Name="Determine Distance to Tags from all Tags.vi" Type="VI" URL="../Tag/Determine Distance to Tags from all Tags.vi"/>
-			<Item Name="Estimate All Positions - Swarm Method (copy).vi" Type="VI" URL="../Estimate All Positions - Swarm Method (copy).vi"/>
 			<Item Name="Estimate All Positions - Swarm Method.vi" Type="VI" URL="../Estimate All Positions - Swarm Method.vi"/>
 			<Item Name="Randomize Tags.vi" Type="VI" URL="../Random Generator/Randomize Tags.vi"/>
 			<Item Name="TagArray to SwarmInputArray.vi" Type="VI" URL="../TagArray to SwarmInputArray.vi"/>
@@ -113,7 +112,7 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
-			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
+			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
