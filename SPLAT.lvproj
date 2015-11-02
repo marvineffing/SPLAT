@@ -64,6 +64,7 @@
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
+		<Item Name="Star Input to Waveform Array.vi" Type="VI" URL="../Star Input to Waveform Array.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -112,7 +113,7 @@
 				<Item Name="Write To Spreadsheet File (string).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File (string).vi"/>
 				<Item Name="Write To Spreadsheet File.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/file.llb/Write To Spreadsheet File.vi"/>
 			</Item>
-			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="lvanlys.framework" Type="Document" URL="/&lt;resource&gt;/lvanlys.framework"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
