@@ -36,16 +36,20 @@
 			<Item Name="TagArray to SwarmInputArray.vi" Type="VI" URL="../TagArray to SwarmInputArray.vi"/>
 		</Item>
 		<Item Name="Utilitiy VIs" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
+			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Add Unique Anchor to Array.vi" Type="VI" URL="../Anchor/Add Unique Anchor to Array.vi"/>
 			<Item Name="Array Has Element.vi" Type="VI" URL="../Array Has Element.vi"/>
+			<Item Name="Convert TimeStamp To Double.vi" Type="VI" URL="../Convert TimeStamp To Double.vi"/>
 			<Item Name="Create Common Input Controls.vi" Type="VI" URL="../Create Common Input Controls.vi"/>
 			<Item Name="Delete Tag from TagsArray by ID.vi" Type="VI" URL="../Tag/Delete Tag from TagsArray by ID.vi"/>
 			<Item Name="Determine Plot Name.vi" Type="VI" URL="../Field Class/Determine Plot Name.vi"/>
+			<Item Name="Draw All Distances.vi" Type="VI" URL="../Draw All Distances.vi"/>
 			<Item Name="Draw Rectangle XY Graph.vi" Type="VI" URL="../Draw Rectangle XY Graph.vi"/>
 			<Item Name="DrawCircle.vi" Type="VI" URL="../DrawCircle.vi"/>
 			<Item Name="Get Distance From AnchorDistanceArray By TagID.vi" Type="VI" URL="../Get Distance From AnchorDistanceArray By TagID.vi"/>
+			<Item Name="Input to Waveform Array (Star).vi" Type="VI" URL="../Input to Waveform Array (Star).vi"/>
+			<Item Name="Input to Waveform Chart (Swarm).vi" Type="VI" URL="../Input to Waveform Chart (Swarm).vi"/>
+			<Item Name="Insert Element In 2D Array (DBL).vi" Type="VI" URL="../Insert Element In 2D Array (DBL).vi"/>
 			<Item Name="Insert Intersection Data In Cluster Array.vi" Type="VI" URL="../Insert Intersection Data In Cluster Array.vi"/>
 			<Item Name="Is Anchor ID Unique.vi" Type="VI" URL="../Anchor/Is Anchor ID Unique.vi"/>
 			<Item Name="Put Tracing Element In Array.vi" Type="VI" URL="../Put Tracing Element In Array.vi"/>
@@ -56,15 +60,11 @@
 			<Item Name="TagArray to StarInputArray.vi" Type="VI" URL="../Tag/TagArray to StarInputArray.vi"/>
 			<Item Name="Time To Milliseconds.vi" Type="VI" URL="../Time To Milliseconds.vi"/>
 			<Item Name="Write Data To File.vi" Type="VI" URL="../Write Data To File.vi"/>
-			<Item Name="Draw All Distances.vi" Type="VI" URL="../Draw All Distances.vi"/>
-			<Item Name="Input to Waveform Chart.vi" Type="VI" URL="../Input to Waveform Chart.vi"/>
-			<Item Name="Insert Element In 2D Array (DBL).vi" Type="VI" URL="../Insert Element In 2D Array (DBL).vi"/>
 		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
-		<Item Name="Star Input to Waveform Array.vi" Type="VI" URL="../Star Input to Waveform Array.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
