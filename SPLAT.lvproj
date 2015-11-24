@@ -63,6 +63,7 @@
 		</Item>
 		<Item Name="Anchor.lvclass" Type="LVClass" URL="../Anchor/Anchor.lvclass"/>
 		<Item Name="Field.lvclass" Type="LVClass" URL="../Field Class/Field.lvclass"/>
+		<Item Name="Is Within Time Threshold.vi" Type="VI" URL="../Is Within Time Threshold.vi"/>
 		<Item Name="Position.lvclass" Type="LVClass" URL="../Position.lvclass"/>
 		<Item Name="SPLAT.vi" Type="VI" URL="../SPLAT.vi"/>
 		<Item Name="Tag.lvclass" Type="LVClass" URL="../Tag.lvclass"/>
